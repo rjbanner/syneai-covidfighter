@@ -1,0 +1,89 @@
+,state,column,totalInfluence,absTotal
+0,NewYork,AverageSurfaceAirPressure_14d_Lag > 28.00,7.550400974947389,7.550400974947389
+1,NewYork,AverageSurfaceAirPressure_35d_Lag > 28.00,4.502223895223502,4.502223895223502
+3,NewYork,AverageSurfaceAirPressure_28d_Lag > 28.00,-3.7501963144404566,3.7501963144404566
+2,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_28d_Lag <= 2.00,-2.3346659295653627,2.3346659295653627
+4,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_21d_Lag <= 2.00,1.1924801481935243,1.1924801481935243
+8,NewYork,AverageDewPoint_28d_Lag <= 48.00,0.8754130332989682,0.8754130332989682
+5,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_35d_Lag > 3.00,-0.8104565529580638,0.8104565529580638
+9,NewYork,AverageSurfaceAirPressure_21d_Lag > 28.00,0.4404876743046227,0.4404876743046227
+7,NewYork,AverageDewPoint_14d_Lag > 59.00,0.40607316170547897,0.40607316170547897
+12,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_14d_Lag <= 2.00,-0.3358763145090701,0.3358763145090701
+14,NewYork,AverageRelativeHumidity_14d_Lag > 78.00,-0.2945587021405498,0.2945587021405498
+34,NewYork,AverageWindSpeed_14d_Lag <= 2.00,0.22292239664432578,0.22292239664432578
+37,NewYork,AverageWindSpeed_21d_Lag > 5.00,0.21759038172181305,0.21759038172181305
+38,NewYork,Visited_Pennsylvania_21d_Lag > 0.00,0.2163666752753534,0.2163666752753534
+36,NewYork,2.00 < AverageWindSpeed_35d_Lag <= 3.00,0.2151667819757779,0.2151667819757779
+35,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_21d_Lag <= 2.00,0.21319535292860203,0.21319535292860203
+33,NewYork,0.00 < AverageWindGustSpeed_35d_Lag <= 2.00,0.20902748053167286,0.20902748053167286
+39,NewYork,Visited_NewJersey_28d_Lag > 0.00,0.20167927845508335,0.20167927845508335
+31,NewYork,59.00 < AverageDailyTemperature_28d_Lag <= 66.00,0.19992939407608146,0.19992939407608146
+32,NewYork,49.00 < AverageDewPoint_35d_Lag <= 57.00,0.19916202312101483,0.19916202312101483
+41,NewYork,Visited_Pennsylvania_28d_Lag > 0.00,0.19193273456607593,0.19193273456607593
+42,NewYork,Visited_Massachusetts_21d_Lag > 0.00,0.17272679902112492,0.17272679902112492
+17,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_28d_Lag > 3.00,0.1602215002216082,0.1602215002216082
+30,NewYork,0.00 < CDS_Tested_dailyNewCases <= 67073.00,0.15893349438758653,0.15893349438758653
+18,NewYork,AverageDailyTemperature_21d_Lag > 70.00,-0.15361997399019087,0.15361997399019087
+40,NewYork,Visited_Connecticut_14d_Lag > 0.00,0.15254152051548733,0.15254152051548733
+11,NewYork,65.00 < AverageDailyTemperature_14d_Lag <= 70.00,0.149877289880612,0.149877289880612
+43,NewYork,Visited_Pennsylvania_35d_Lag > 0.00,0.1414924578196573,0.1414924578196573
+10,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_28d_Lag <= 2.00,0.13447485953594362,0.13447485953594362
+15,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_21d_Lag <= 3.00,0.11211990267828748,0.11211990267828748
+6,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_21d_Lag > 3.00,0.1084681815196016,0.1084681815196016
+29,NewYork,AverageWindSpeed_28d_Lag <= 2.00,0.10756065308387501,0.10756065308387501
+28,NewYork,60.00 < AverageDailyTemperature_35d_Lag <= 67.00,0.09737439769974231,0.09737439769974231
+19,NewYork,AverageRelativeHumidity_28d_Lag <= 69.00,-0.0896095941257041,0.0896095941257041
+44,NewYork,Visited_NewJersey_14d_Lag > 0.00,0.0779942877814951,0.0779942877814951
+24,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_35d_Lag <= 2.00,0.07729891763424078,0.07729891763424078
+16,NewYork,AverageRelativeHumidity_35d_Lag <= 69.00,0.07612646130317675,0.07612646130317675
+45,NewYork,Visited_Connecticut_21d_Lag > 0.00,0.05553281877728458,0.05553281877728458
+27,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_28d_Lag <= 3.00,0.05491492805531098,0.05491492805531098
+23,NewYork,weekNr <= 33.00,-0.05020039277672688,0.05020039277672688
+22,NewYork,JHU_ConfirmedCases_dailyNewCases_1d_Lag <= 655.75,-0.048057515819155495,0.048057515819155495
+47,NewYork,Visited_NewJersey_21d_Lag > 0.00,0.03883045196215966,0.03883045196215966
+46,NewYork,Visited_NewJersey_35d_Lag > 0.00,0.03626214200711706,0.03626214200711706
+20,NewYork,AverageDewPoint_21d_Lag > 60.00,-0.03499475385396193,0.03499475385396193
+21,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_14d_Lag > 3.00,-0.0290610960602048,0.0290610960602048
+48,NewYork,Visited_Massachusetts_14d_Lag > 0.00,0.024360285167442746,0.024360285167442746
+49,NewYork,Visited_Massachusetts_28d_Lag > 0.00,0.023798513167745526,0.023798513167745526
+51,NewYork,Visited_Connecticut_35d_Lag > 0.00,0.02106819587454565,0.02106819587454565
+13,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_35d_Lag <= 3.00,0.017504219672096966,0.017504219672096966
+52,NewYork,Visited_Pennsylvania_14d_Lag > 0.00,0.00970720671900737,0.00970720671900737
+54,NewYork,0.00 < AverageWindGustSpeed_14d_Lag <= 2.00,0.0090741554593781,0.0090741554593781
+25,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_14d_Lag <= 2.00,-0.006793377105260371,0.006793377105260371
+53,NewYork,Visited_Massachusetts_35d_Lag > 0.00,-0.0057711920231862225,0.0057711920231862225
+26,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_14d_Lag <= 3.00,-0.0022596998545655407,0.0022596998545655407
+55,NewYork,AverageWindGustSpeed_21d_Lag > 2.00,-0.002250647219784263,0.002250647219784263
+50,NewYork,Visited_Connecticut_28d_Lag > 0.00,0.0011564194677950112,0.0011564194677950112
+57,NewYork,72.50 < AverageRelativeHumidity_21d_Lag <= 78.00,-0.0009064953955969031,0.0009064953955969031
+58,NewYork,AverageWindGustSpeed_28d_Lag <= 0.00,-0.00020446636456638903,0.00020446636456638903
+56,NewYork,dayOfWeek <= 1.00,-0.00013053096896531446,0.00013053096896531446
+59,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_21d_Lag <= 2.00,0.0,0.0
+74,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_14d_Lag <= 1.00,0.0,0.0
+65,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_28d_Lag <= 1.00,0.0,0.0
+64,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_21d_Lag <= 1.00,0.0,0.0
+70,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_14d_Lag <= 1.00,0.0,0.0
+73,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_35d_Lag <= 1.00,0.0,0.0
+71,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_21d_Lag <= 1.00,0.0,0.0
+63,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_14d_Lag <= 2.00,0.0,0.0
+62,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_35d_Lag <= 2.00,0.0,0.0
+66,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_35d_Lag <= 1.00,0.0,0.0
+83,NewYork,OxCGRT_Policy_H3_ContactTracing_35d_Lag <= 2.00,0.0,0.0
+60,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_28d_Lag <= 2.00,0.0,0.0
+82,NewYork,OxCGRT_Policy_H3_ContactTracing_28d_Lag <= 2.00,0.0,0.0
+61,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_35d_Lag <= 2.00,0.0,0.0
+80,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_14d_Lag <= 3.00,0.0,0.0
+85,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_21d_Lag <= 3.00,0.0,0.0
+86,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_28d_Lag <= 3.00,0.0,0.0
+69,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_35d_Lag <= 3.00,0.0,0.0
+67,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_14d_Lag <= 2.00,0.0,0.0
+75,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_21d_Lag <= 2.00,0.0,0.0
+76,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_28d_Lag <= 2.00,0.0,0.0
+87,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_35d_Lag <= 2.00,0.0,0.0
+84,NewYork,OxCGRT_Policy_H2_TestingPolicy_14d_Lag <= 3.00,0.0,0.0
+77,NewYork,OxCGRT_Policy_H2_TestingPolicy_21d_Lag <= 3.00,0.0,0.0
+78,NewYork,OxCGRT_Policy_H2_TestingPolicy_28d_Lag <= 3.00,0.0,0.0
+79,NewYork,OxCGRT_Policy_H2_TestingPolicy_35d_Lag <= 3.00,0.0,0.0
+68,NewYork,OxCGRT_Policy_H3_ContactTracing_14d_Lag <= 2.00,0.0,0.0
+81,NewYork,OxCGRT_Policy_H3_ContactTracing_21d_Lag <= 2.00,0.0,0.0
+72,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_28d_Lag <= 1.00,0.0,0.0

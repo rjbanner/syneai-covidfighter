@@ -1,0 +1,213 @@
+,state,column,totalInfluence,absTotal,scaledInfluence,featureName,effectsLagDays,featureValue,simuFlag,version,group
+0,NewYork,AverageSurfaceAirPressure_14d_Lag > 28.00,7.550400974947388,7.550400974947388,100.0,AverageSurfaceAirPressure,14,>28.00,0,lime_actual_120,Not controlable
+1,NewYork,AverageSurfaceAirPressure_35d_Lag > 28.00,4.502223895223502,4.502223895223502,59.62893772346804,AverageSurfaceAirPressure,35,>28.00,0,lime_actual_120,Not controlable
+2,NewYork,AverageSurfaceAirPressure_28d_Lag > 28.00,-3.7501963144404566,3.7501963144404566,-49.668836488072586,AverageSurfaceAirPressure,28,>28.00,0,lime_actual_120,Not controlable
+3,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_28d_Lag <= 2.00,-2.3346659295653627,2.3346659295653627,-30.921085347810028,OxCGRT_Policy_C2_WorkplaceClosing,28,<=2.00,1,lime_actual_120,Policymaker controlable
+4,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_21d_Lag <= 2.00,1.1924801481935243,1.1924801481935243,15.793600262426244,OxCGRT_Policy_C2_WorkplaceClosing,21,<=2.00,1,lime_actual_120,Policymaker controlable
+5,NewYork,AverageDewPoint_28d_Lag <= 48.00,0.8754130332989682,0.8754130332989682,11.594258850670752,AverageDewPoint,28,<=48.00,0,lime_actual_120,Not controlable
+6,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_35d_Lag > 3.00,-0.8104565529580638,0.8104565529580638,-10.733953807846756,OxCGRT_Policy_C4_RestrictionsOnGatherings,35,>3.00,1,lime_actual_120,Policymaker controlable
+7,NewYork,AverageSurfaceAirPressure_21d_Lag > 28.00,0.4404876743046227,0.4404876743046227,5.833963994312131,AverageSurfaceAirPressure,21,>28.00,0,lime_actual_120,Not controlable
+8,NewYork,AverageDewPoint_14d_Lag > 59.00,0.40607316170547897,0.40607316170547897,5.378166842434597,AverageDewPoint,14,>59.00,0,lime_actual_120,Not controlable
+9,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_14d_Lag <= 2.00,-0.3358763145090701,0.3358763145090701,-4.44845665314365,OxCGRT_Policy_C3_CancelPublicEvents,14,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+10,NewYork,AverageRelativeHumidity_14d_Lag > 78.00,-0.2945587021405498,0.2945587021405498,-3.9012325718582423,AverageRelativeHumidity,14,>78.00,0,lime_actual_120,Not controlable
+11,NewYork,AverageWindSpeed_14d_Lag <= 2.00,0.22292239664432575,0.22292239664432575,2.9524577222321504,AverageWindSpeed,14,<=2.00,0,lime_actual_120,Not controlable
+12,NewYork,AverageWindSpeed_21d_Lag > 5.00,0.21759038172181305,0.21759038172181305,2.8818387585479095,AverageWindSpeed,21,>5.00,0,lime_actual_120,Not controlable
+14,NewYork,2.00 < AverageWindSpeed_35d_Lag <= 3.00,0.2151667819757779,0.2151667819757779,2.8497398044118736,AverageWindSpeed,35,2.00< & <=3.00,0,lime_actual_120,Not controlable
+15,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_21d_Lag <= 2.00,0.21319535292860206,0.21319535292860206,2.823629548099432,OxCGRT_Policy_C3_CancelPublicEvents,21,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+16,NewYork,0.00 < AverageWindGustSpeed_35d_Lag <= 2.00,0.2090274805316729,0.2090274805316729,2.7684288718604035,AverageWindGustSpeed,35,0.00< & <=2.00,0,lime_actual_120,Not controlable
+18,NewYork,59.00 < AverageDailyTemperature_28d_Lag <= 66.00,0.19992939407608146,0.19992939407608146,2.6479308150581313,AverageDailyTemperature,28,59.00< & <=66.00,0,lime_actual_120,Not controlable
+19,NewYork,49.00 < AverageDewPoint_35d_Lag <= 57.00,0.19916202312101486,0.19916202312101486,2.6377675011147685,AverageDewPoint,35,49.00< & <=57.00,0,lime_actual_120,Not controlable
+22,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_28d_Lag > 3.00,0.1602215002216082,0.1602215002216082,2.122026376522667,OxCGRT_Policy_C4_RestrictionsOnGatherings,28,>3.00,1,lime_actual_120,Policymaker controlable
+23,NewYork,0.00 < CDS_Tested_dailyNewCases <= 67073.00,0.15893349438758653,0.15893349438758653,2.1049676025807886,CDS_Tested_dailyNewCases,0,0.00< & <=67073.00,1,lime_actual_120,Policymaker controlable
+24,NewYork,AverageDailyTemperature_21d_Lag > 70.00,-0.15361997399019087,0.15361997399019087,-2.034593586485138,AverageDailyTemperature,21,>70.00,0,lime_actual_120,Not controlable
+26,NewYork,65.00 < AverageDailyTemperature_14d_Lag <= 70.00,0.149877289880612,0.149877289880612,1.985024244115146,AverageDailyTemperature,14,65.00< & <=70.00,0,lime_actual_120,Not controlable
+28,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_28d_Lag <= 2.00,0.13447485953594362,0.13447485953594362,1.781029378203065,OxCGRT_Policy_C3_CancelPublicEvents,28,1.00< & <=2.00,0,lime_actual_120,Policymaker controlable
+29,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_21d_Lag <= 3.00,0.11211990267828748,0.11211990267828748,1.4849529587939365,OxCGRT_Policy_C1_SchoolClosing,21,2.00< & <=3.00,0,lime_actual_120,Policymaker controlable
+30,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_21d_Lag > 3.00,0.1084681815196016,0.1084681815196016,1.4365883597375093,OxCGRT_Policy_C4_RestrictionsOnGatherings,21,>3.00,0,lime_actual_120,Policymaker controlable
+31,NewYork,AverageWindSpeed_28d_Lag <= 2.00,0.107560653083875,0.107560653083875,1.424568753908126,AverageWindSpeed,28,<=2.00,0,lime_actual_120,Not controlable
+32,NewYork,60.00 < AverageDailyTemperature_35d_Lag <= 67.00,0.09737439769974232,0.09737439769974232,1.289658629029577,AverageDailyTemperature,35,60.00< & <=67.00,0,lime_actual_120,Not controlable
+33,NewYork,AverageRelativeHumidity_28d_Lag <= 69.00,-0.0896095941257041,0.0896095941257041,-1.186819010315257,AverageRelativeHumidity,28,<=69.00,0,lime_actual_120,Not controlable
+35,NewYork,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_35d_Lag <= 2.00,0.07729891763424078,0.07729891763424078,1.0237723518356507,OxCGRT_Policy_C3_CancelPublicEvents,35,1.00< & <=2.00,0,lime_actual_120,Policymaker controlable
+36,NewYork,AverageRelativeHumidity_35d_Lag <= 69.00,0.07612646130317675,0.07612646130317675,1.00824395360946,AverageRelativeHumidity,35,<=69.00,0,lime_actual_120,Not controlable
+38,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_28d_Lag <= 3.00,0.05491492805531098,0.05491492805531098,0.7273114134934222,OxCGRT_Policy_C1_SchoolClosing,28,2.00< & <=3.00,0,lime_actual_120,Policymaker controlable
+39,NewYork,weekNr <= 33.00,-0.05020039277672688,0.05020039277672688,-0.6648705538062722,weekNr,0,<=33.00,0,lime_actual_120,Not controlable
+40,NewYork,JHU_ConfirmedCases_dailyNewCases_1d_Lag <= 655.75,-0.048057515819155495,0.048057515819155495,-0.6364895848394378,JHU_ConfirmedCases_dailyNewCases,1,<=655.75,0,lime_actual_120,Not controlable
+43,NewYork,AverageDewPoint_21d_Lag > 60.00,-0.03499475385396193,0.03499475385396193,-0.46348205837115525,AverageDewPoint,21,>60.00,0,lime_actual_120,Not controlable
+44,NewYork,OxCGRT_Policy_C4_RestrictionsOnGatherings_14d_Lag > 3.00,-0.0290610960602048,0.0290610960602048,-0.3848947381288886,OxCGRT_Policy_C4_RestrictionsOnGatherings,14,>3.00,0,lime_actual_120,Policymaker controlable
+48,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_35d_Lag <= 3.00,0.017504219672096966,0.017504219672096966,0.23183165675805634,OxCGRT_Policy_C1_SchoolClosing,35,2.00< & <=3.00,0,lime_actual_120,Policymaker controlable
+50,NewYork,0.00 < AverageWindGustSpeed_14d_Lag <= 2.00,0.0090741554593781,0.0090741554593781,0.12018110679799135,AverageWindGustSpeed,14,0.00< & <=2.00,0,lime_actual_120,Not controlable
+51,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_14d_Lag <= 2.00,-0.006793377105260371,0.006793377105260371,-0.08997372626700409,OxCGRT_Policy_C2_WorkplaceClosing,14,<=2.00,0,lime_actual_120,Policymaker controlable
+53,NewYork,2.00 < OxCGRT_Policy_C1_SchoolClosing_14d_Lag <= 3.00,-0.002259699854565541,0.002259699854565541,-0.029928209933000105,OxCGRT_Policy_C1_SchoolClosing,14,2.00< & <=3.00,0,lime_actual_120,Policymaker controlable
+54,NewYork,AverageWindGustSpeed_21d_Lag > 2.00,-0.002250647219784263,0.002250647219784263,-0.02980831385315858,AverageWindGustSpeed,21,>2.00,0,lime_actual_120,Not controlable
+56,NewYork,72.50 < AverageRelativeHumidity_21d_Lag <= 78.00,-0.0009064953955969033,0.0009064953955969033,-0.0120059239052959,AverageRelativeHumidity,21,72.50< & <=78.00,0,lime_actual_120,Not controlable
+57,NewYork,AverageWindGustSpeed_28d_Lag <= 0.00,-0.00020446636456638903,0.00020446636456638903,-0.0027080199481434,AverageWindGustSpeed,28,<=0.00,0,lime_actual_120,Not controlable
+58,NewYork,dayOfWeek <= 1.00,-0.00013053096896531446,0.00013053096896531446,-0.0017287951911219394,dayOfWeek,0,<=1.00,0,lime_actual_120,Not controlable
+80,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,35,<=2.00,0,lime_actual_120,Policymaker controlable
+75,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_28d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,28,<=3.00,0,lime_actual_120,Policymaker controlable
+76,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_35d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,35,<=3.00,0,lime_actual_120,Policymaker controlable
+77,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,14,<=2.00,0,lime_actual_120,Policymaker controlable
+78,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,21,<=2.00,0,lime_actual_120,Policymaker controlable
+79,NewYork,OxCGRT_Policy_H1_PublicInformationCampaigns_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,28,<=2.00,0,lime_actual_120,Policymaker controlable
+82,NewYork,OxCGRT_Policy_H2_TestingPolicy_21d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_H2_TestingPolicy,21,<=3.00,0,lime_actual_120,Policymaker controlable
+81,NewYork,OxCGRT_Policy_H2_TestingPolicy_14d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_H2_TestingPolicy,14,<=3.00,0,lime_actual_120,Policymaker controlable
+73,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_14d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,14,<=3.00,0,lime_actual_120,Policymaker controlable
+83,NewYork,OxCGRT_Policy_H2_TestingPolicy_28d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_H2_TestingPolicy,28,<=3.00,0,lime_actual_120,Policymaker controlable
+84,NewYork,OxCGRT_Policy_H2_TestingPolicy_35d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_H2_TestingPolicy,35,<=3.00,0,lime_actual_120,Policymaker controlable
+85,NewYork,OxCGRT_Policy_H3_ContactTracing_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,14,<=2.00,0,lime_actual_120,Policymaker controlable
+86,NewYork,OxCGRT_Policy_H3_ContactTracing_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,21,<=2.00,0,lime_actual_120,Policymaker controlable
+74,NewYork,OxCGRT_Policy_C8_InternationalTravelControls_21d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,21,<=3.00,0,lime_actual_120,Policymaker controlable
+70,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,28,<=2.00,0,lime_actual_120,Policymaker controlable
+72,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,35,<=2.00,0,lime_actual_120,Policymaker controlable
+71,NewYork,OxCGRT_Policy_H3_ContactTracing_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,28,<=2.00,0,lime_actual_120,Policymaker controlable
+69,NewYork,OxCGRT_Policy_H3_ContactTracing_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,35,<=2.00,0,lime_actual_120,Policymaker controlable
+68,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_35d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,35,<=1.00,0,lime_actual_120,Policymaker controlable
+67,NewYork,OxCGRT_Policy_C2_WorkplaceClosing_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C2_WorkplaceClosing,35,<=2.00,0,lime_actual_120,Policymaker controlable
+66,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,14,<=2.00,0,lime_actual_120,Policymaker controlable
+65,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_21d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,21,<=1.00,0,lime_actual_120,Policymaker controlable
+64,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_35d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,35,<=1.00,0,lime_actual_120,Policymaker controlable
+63,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_14d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,14,<=1.00,0,lime_actual_120,Policymaker controlable
+62,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_21d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,21,<=1.00,0,lime_actual_120,Policymaker controlable
+61,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_28d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,28,<=1.00,0,lime_actual_120,Policymaker controlable
+60,NewYork,OxCGRT_Policy_C6_StayAtHomeRequirements_14d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,14,<=1.00,0,lime_actual_120,Policymaker controlable
+59,NewYork,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,21,<=2.00,0,lime_actual_120,Policymaker controlable
+87,NewYork,OxCGRT_Policy_C5_ClosePublicTransport_28d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,28,<=1.00,0,lime_actual_120,Policymaker controlable
+0,California,OxCGRT_Policy_C6_StayAtHomeRequirements_14d_Lag > 1.00,6.923472081794236,6.923472081794236,100.0,OxCGRT_Policy_C6_StayAtHomeRequirements,14,>1.00,1,lime_actual_210,Policymaker controlable
+1,California,AverageDailyTemperature_14d_Lag <= 66.00,5.1595138694509375,5.1595138694509375,74.52205784173302,AverageDailyTemperature,14,<=66.00,0,lime_actual_210,Not controlable
+4,California,JHU_ConfirmedCases_dailyNewCases_1d_Lag <= 2449.75,5.154840640698591,5.154840640698591,74.45455950134634,JHU_ConfirmedCases_dailyNewCases,1,<=2449.75,0,lime_actual_210,Not controlable
+5,California,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_14d_Lag > 1.00,5.149450103658298,5.149450103658298,74.37670063260809,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,14,>1.00,1,lime_actual_210,Policymaker controlable
+6,California,AverageRelativeHumidity_21d_Lag > 58.00,5.077253828601871,5.077253828601871,73.33392506850534,AverageRelativeHumidity,21,>58.00,0,lime_actual_210,Not controlable
+7,California,OxCGRT_Policy_C2_WorkplaceClosing_14d_Lag > 2.00,-5.014923426054772,5.014923426054772,-72.43364841813793,OxCGRT_Policy_C2_WorkplaceClosing,14,>2.00,1,lime_actual_210,Policymaker controlable
+8,California,AverageRelativeHumidity_28d_Lag <= 46.00,4.940835974075669,4.940835974075669,71.36355741316484,AverageRelativeHumidity,28,<=46.00,0,lime_actual_210,Not controlable
+9,California,AverageDewPoint_28d_Lag <= 48.00,4.925833683693343,4.925833683693343,71.1468700313846,AverageDewPoint,28,<=48.00,0,lime_actual_210,Not controlable
+10,California,AverageDailyTemperature_28d_Lag <= 65.25,4.638316585665045,4.638316585665045,66.99408231690325,AverageDailyTemperature,28,<=65.25,0,lime_actual_210,Not controlable
+12,California,weekNr <= 23.00,4.498390779801699,4.498390779801699,64.97304714538446,weekNr,0,<=23.00,0,lime_actual_210,Not controlable
+14,California,AverageDailyTemperature_21d_Lag <= 66.00,2.349661011998017,2.349661011998017,33.937610843793514,AverageDailyTemperature,21,<=66.00,0,lime_actual_210,Not controlable
+15,California,AverageSurfaceAirPressure_28d_Lag > 29.00,0.961126398333202,0.961126398333202,13.88214449308682,AverageSurfaceAirPressure,28,>29.00,0,lime_actual_210,Not controlable
+18,California,OxCGRT_Policy_H2_TestingPolicy_28d_Lag <= 2.00,0.8550394521776601,0.8550394521776601,12.349864953251526,OxCGRT_Policy_H2_TestingPolicy,28,<=2.00,1,lime_actual_210,Policymaker controlable
+19,California,AverageSurfaceAirPressure_35d_Lag > 29.00,-0.6360663149985095,0.6360663149985095,-9.18710016425272,AverageSurfaceAirPressure,35,>29.00,0,lime_actual_210,Not controlable
+20,California,AverageSurfaceAirPressure_21d_Lag > 29.00,-0.4598103896837234,0.4598103896837234,-6.641326551930897,AverageSurfaceAirPressure,21,>29.00,0,lime_actual_210,Not controlable
+23,California,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_28d_Lag <= 1.00,0.3001655805624099,0.3001655805624099,4.335477590091202,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,28,<=1.00,1,lime_actual_210,Policymaker controlable
+24,California,AverageDewPoint_21d_Lag <= 48.00,0.21222965055573312,0.21222965055573312,3.0653644305695424,AverageDewPoint,21,<=48.00,0,lime_actual_210,Not controlable
+25,California,AverageRelativeHumidity_14d_Lag > 58.00,0.1893905766118655,0.1893905766118655,2.735485524811771,AverageRelativeHumidity,14,>58.00,0,lime_actual_210,Not controlable
+26,California,OxCGRT_Policy_H3_ContactTracing_14d_Lag <= 1.00,0.12260755837628318,0.12260755837628318,1.7708969853245815,OxCGRT_Policy_H3_ContactTracing,14,<=1.00,0,lime_actual_210,Policymaker controlable
+27,California,3.00 < dayOfWeek <= 5.00,0.1196755768086142,0.1196755768086142,1.7285485576421935,dayOfWeek,0,3.00< & <=5.00,0,lime_actual_210,Not controlable
+28,California,AverageSurfaceAirPressure_14d_Lag > 29.00,-0.1017594719210216,0.1017594719210216,-1.4697751463258644,AverageSurfaceAirPressure,14,>29.00,0,lime_actual_210,Not controlable
+29,California,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_35d_Lag <= 1.00,-0.09850919711920574,0.09850919711920574,-1.4228294121130742,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,35,<=1.00,0,lime_actual_210,Policymaker controlable
+30,California,AverageWindSpeed_28d_Lag > 7.00,-0.0928411351181693,0.0928411351181693,-1.3409620782945264,AverageWindSpeed,28,>7.00,0,lime_actual_210,Not controlable
+31,California,OxCGRT_Policy_C2_WorkplaceClosing_21d_Lag > 2.00,-0.08886996324520155,0.08886996324520155,-1.283603980709209,OxCGRT_Policy_C2_WorkplaceClosing,21,>2.00,0,lime_actual_210,Policymaker controlable
+32,California,OxCGRT_Policy_H2_TestingPolicy_14d_Lag <= 2.00,0.0792463811692172,0.0792463811692172,1.1446046179286433,OxCGRT_Policy_H2_TestingPolicy,14,<=2.00,0,lime_actual_210,Policymaker controlable
+33,California,AverageWindGustSpeed_28d_Lag > 0.00,-0.056147869729104544,0.056147869729104544,-0.8109784955549886,AverageWindGustSpeed,28,>0.00,0,lime_actual_210,Not controlable
+34,California,AverageDailyTemperature_35d_Lag <= 64.25,-0.04381756561228088,0.04381756561228088,-0.6328842681044717,AverageDailyTemperature,35,<=64.25,0,lime_actual_210,Not controlable
+35,California,AverageDewPoint_35d_Lag <= 47.00,-0.037389777477172134,0.037389777477172134,-0.5400437386826651,AverageDewPoint,35,<=47.00,0,lime_actual_210,Not controlable
+36,California,OxCGRT_Policy_C2_WorkplaceClosing_28d_Lag <= 2.00,-0.03712784531821508,0.03712784531821508,-0.5362604901064799,OxCGRT_Policy_C2_WorkplaceClosing,28,<=2.00,0,lime_actual_210,Policymaker controlable
+37,California,OxCGRT_Policy_H3_ContactTracing_28d_Lag <= 1.00,-0.033078832704178614,0.033078832704178614,-0.47777809043473674,OxCGRT_Policy_H3_ContactTracing,28,<=1.00,0,lime_actual_210,Policymaker controlable
+38,California,AverageDewPoint_14d_Lag <= 48.00,0.032868317733479833,0.032868317733479833,0.47473749218848477,AverageDewPoint,14,<=48.00,0,lime_actual_210,Not controlable
+39,California,OxCGRT_Policy_C6_StayAtHomeRequirements_28d_Lag <= 1.00,-0.030901994781273194,0.030901994781273194,-0.44633667062126525,OxCGRT_Policy_C6_StayAtHomeRequirements,28,<=1.00,0,lime_actual_210,Policymaker controlable
+40,California,AverageRelativeHumidity_35d_Lag > 60.75,0.02929373008204892,0.02929373008204892,0.4231075064067764,AverageRelativeHumidity,35,>60.75,0,lime_actual_210,Not controlable
+41,California,AverageWindGustSpeed_35d_Lag <= 0.00,0.02866612285775459,0.02866612285775459,0.414042586134408,AverageWindGustSpeed,35,<=0.00,0,lime_actual_210,Not controlable
+42,California,OxCGRT_Policy_C7_RestrictionsOnInternalMovement_21d_Lag > 1.00,0.026535232722901016,0.026535232722901016,0.3832648187125258,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,21,>1.00,0,lime_actual_210,Policymaker controlable
+43,California,OxCGRT_Policy_C6_StayAtHomeRequirements_35d_Lag <= 1.00,-0.02564330009578988,0.02564330009578988,-0.37038208275903606,OxCGRT_Policy_C6_StayAtHomeRequirements,35,<=1.00,0,lime_actual_210,Policymaker controlable
+44,California,AverageWindGustSpeed_21d_Lag <= 0.00,0.023355494935795067,0.023355494935795067,0.3373378943378714,AverageWindGustSpeed,21,<=0.00,0,lime_actual_210,Not controlable
+45,California,OxCGRT_Policy_C2_WorkplaceClosing_35d_Lag <= 2.00,0.022316312280482208,0.022316312280482208,0.322328334928432,OxCGRT_Policy_C2_WorkplaceClosing,35,<=2.00,0,lime_actual_210,Policymaker controlable
+46,California,AverageWindGustSpeed_14d_Lag <= 0.00,-0.018692214667017704,0.018692214667017704,-0.26998324606768065,AverageWindGustSpeed,14,<=0.00,0,lime_actual_210,Not controlable
+47,California,4.00 < AverageWindSpeed_21d_Lag <= 6.00,-0.01519959893521469,0.01519959893521469,-0.2195372315457604,AverageWindSpeed,21,4.00< & <=6.00,0,lime_actual_210,Not controlable
+48,California,4.00 < AverageWindSpeed_14d_Lag <= 6.00,0.01024151081737022,0.01024151081737022,0.14792449072339015,AverageWindSpeed,14,4.00< & <=6.00,0,lime_actual_210,Not controlable
+49,California,OxCGRT_Policy_C6_StayAtHomeRequirements_21d_Lag > 1.00,-0.008834820223029503,0.008834820223029503,-0.12760678628662767,OxCGRT_Policy_C6_StayAtHomeRequirements,21,>1.00,0,lime_actual_210,Policymaker controlable
+50,California,OxCGRT_Policy_H3_ContactTracing_21d_Lag <= 1.00,-0.008122676514334362,0.008122676514334362,-0.1173208531553629,OxCGRT_Policy_H3_ContactTracing,21,<=1.00,0,lime_actual_210,Policymaker controlable
+51,California,OxCGRT_Policy_H3_ContactTracing_35d_Lag <= 1.00,0.007745056619370737,0.007745056619370737,0.1118666548787987,OxCGRT_Policy_H3_ContactTracing,35,<=1.00,0,lime_actual_210,Policymaker controlable
+52,California,CDS_Tested_dailyNewCases <= 0.00,0.007150787000396772,0.007150787000396772,0.103283250310206,CDS_Tested_dailyNewCases,0,<=0.00,0,lime_actual_210,Policymaker controlable
+53,California,OxCGRT_Policy_H2_TestingPolicy_35d_Lag <= 2.00,0.005444169003955772,0.005444169003955772,0.07863350844255736,OxCGRT_Policy_H2_TestingPolicy,35,<=2.00,0,lime_actual_210,Policymaker controlable
+54,California,4.00 < AverageWindSpeed_35d_Lag <= 6.00,-0.00427427722139816,0.00427427722139816,-0.06173603606545446,AverageWindSpeed,35,4.00< & <=6.00,0,lime_actual_210,Not controlable
+55,California,OxCGRT_Policy_H2_TestingPolicy_21d_Lag <= 2.00,0.0008567566650885369,0.0008567566650885369,0.012374667724037478,OxCGRT_Policy_H2_TestingPolicy,21,<=2.00,0,lime_actual_210,Policymaker controlable
+74,California,OxCGRT_Policy_H1_PublicInformationCampaigns_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,14,<=2.00,0,lime_actual_210,Policymaker controlable
+73,California,OxCGRT_Policy_C8_InternationalTravelControls_35d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,35,<=3.00,0,lime_actual_210,Policymaker controlable
+72,California,OxCGRT_Policy_C8_InternationalTravelControls_28d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,28,<=3.00,0,lime_actual_210,Policymaker controlable
+66,California,OxCGRT_Policy_C4_RestrictionsOnGatherings_14d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,14,<=4.00,0,lime_actual_210,Policymaker controlable
+71,California,OxCGRT_Policy_C1_SchoolClosing_28d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C1_SchoolClosing,28,<=3.00,0,lime_actual_210,Policymaker controlable
+70,California,OxCGRT_Policy_C8_InternationalTravelControls_14d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,14,<=3.00,0,lime_actual_210,Policymaker controlable
+69,California,OxCGRT_Policy_C4_RestrictionsOnGatherings_35d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,35,<=4.00,0,lime_actual_210,Policymaker controlable
+68,California,OxCGRT_Policy_H1_PublicInformationCampaigns_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,21,<=2.00,0,lime_actual_210,Policymaker controlable
+67,California,OxCGRT_Policy_C4_RestrictionsOnGatherings_28d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,28,<=4.00,0,lime_actual_210,Policymaker controlable
+59,California,OxCGRT_Policy_H1_PublicInformationCampaigns_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,28,<=2.00,0,lime_actual_210,Policymaker controlable
+65,California,OxCGRT_Policy_C3_CancelPublicEvents_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,28,<=2.00,0,lime_actual_210,Policymaker controlable
+64,California,OxCGRT_Policy_C3_CancelPublicEvents_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,21,<=2.00,0,lime_actual_210,Policymaker controlable
+63,California,OxCGRT_Policy_C3_CancelPublicEvents_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,14,<=2.00,0,lime_actual_210,Policymaker controlable
+62,California,OxCGRT_Policy_C1_SchoolClosing_14d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C1_SchoolClosing,14,<=3.00,0,lime_actual_210,Policymaker controlable
+61,California,OxCGRT_Policy_C1_SchoolClosing_35d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C1_SchoolClosing,35,<=3.00,0,lime_actual_210,Policymaker controlable
+60,California,OxCGRT_Policy_C4_RestrictionsOnGatherings_21d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,21,<=4.00,0,lime_actual_210,Policymaker controlable
+58,California,OxCGRT_Policy_C8_InternationalTravelControls_21d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,21,<=3.00,0,lime_actual_210,Policymaker controlable
+57,California,OxCGRT_Policy_C1_SchoolClosing_21d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C1_SchoolClosing,21,<=3.00,0,lime_actual_210,Policymaker controlable
+56,California,OxCGRT_Policy_H1_PublicInformationCampaigns_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,35,<=2.00,0,lime_actual_210,Policymaker controlable
+75,California,OxCGRT_Policy_C3_CancelPublicEvents_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,35,<=2.00,0,lime_actual_210,Policymaker controlable
+88,Florida,CDS_Tested_dailyNewCases > 35169.50,3.8239228484502834,3.8239228484502834,100.0,CDS_Tested_dailyNewCases,0,>35169.50,1,lime_actual_120,Policymaker controlable
+89,Florida,1.00 < OxCGRT_Policy_C1_SchoolClosing_21d_Lag <= 3.00,2.0261749883309417,2.0261749883309417,52.98681664438097,OxCGRT_Policy_C1_SchoolClosing,21,1.00< & <=3.00,1,lime_actual_120,Policymaker controlable
+90,Florida,OxCGRT_Policy_H2_TestingPolicy_28d_Lag <= 1.00,-1.7298269737074017,1.7298269737074017,-45.23697371165442,OxCGRT_Policy_H2_TestingPolicy,28,<=1.00,1,lime_actual_120,Policymaker controlable
+91,Florida,weekNr <= 33.00,-1.5749405235612952,1.5749405235612952,-41.18651411075329,weekNr,0,<=33.00,0,lime_actual_120,Not controlable
+92,Florida,1.00 < OxCGRT_Policy_C7_RestrictionsOnInternalMovement_21d_Lag <= 2.00,-1.3222301125286715,1.3222301125286715,-34.577844923428046,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,21,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+93,Florida,1.00 < OxCGRT_Policy_C7_RestrictionsOnInternalMovement_35d_Lag <= 2.00,-0.9916329881994832,0.9916329881994832,-25.932348206276206,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,35,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+94,Florida,AverageDailyTemperature_21d_Lag > 81.00,-0.6704578539074846,0.6704578539074846,-17.53324741316892,AverageDailyTemperature,21,>81.00,0,lime_actual_120,Not controlable
+95,Florida,1.00 < OxCGRT_Policy_C7_RestrictionsOnInternalMovement_14d_Lag <= 2.00,-0.5942993010935301,0.5942993010935301,-15.541613276386606,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,14,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+96,Florida,2.00 < OxCGRT_Policy_C1_SchoolClosing_28d_Lag <= 3.00,-0.5658807345468015,0.5658807345468015,-14.798434931189455,OxCGRT_Policy_C1_SchoolClosing,28,2.00< & <=3.00,1,lime_actual_120,Policymaker controlable
+98,Florida,OxCGRT_Policy_H2_TestingPolicy_35d_Lag <= 1.00,-0.5294828871524005,0.5294828871524005,-13.846589173915563,OxCGRT_Policy_H2_TestingPolicy,35,<=1.00,1,lime_actual_120,Policymaker controlable
+102,Florida,dayOfWeek <= 1.00,-0.4916001392528075,0.4916001392528075,-12.855911553028266,dayOfWeek,0,<=1.00,0,lime_actual_120,Not controlable
+104,Florida,72.00 < AverageDewPoint_21d_Lag <= 73.00,-0.48693505528939096,0.48693505528939096,-12.733914218136762,AverageDewPoint,21,72.00< & <=73.00,0,lime_actual_120,Not controlable
+105,Florida,AverageDewPoint_28d_Lag <= 72.00,-0.4785387899400413,0.4785387899400413,-12.514342179627869,AverageDewPoint,28,<=72.00,0,lime_actual_120,Not controlable
+106,Florida,AverageDailyTemperature_35d_Lag > 81.00,-0.4774226921734768,0.4774226921734768,-12.485154933681816,AverageDailyTemperature,35,>81.00,0,lime_actual_120,Not controlable
+109,Florida,AverageWindSpeed_14d_Lag > 4.00,-0.3864200935120357,0.3864200935120357,-10.105331849690423,AverageWindSpeed,14,>4.00,0,lime_actual_120,Not controlable
+110,Florida,OxCGRT_Policy_H2_TestingPolicy_21d_Lag <= 1.00,-0.34741236493015165,0.34741236493015165,-9.085234684349007,OxCGRT_Policy_H2_TestingPolicy,21,<=1.00,1,lime_actual_120,Policymaker controlable
+112,Florida,AverageDailyTemperature_28d_Lag <= 77.00,-0.341623813557174,0.341623813557174,-8.933857378833455,AverageDailyTemperature,28,<=77.00,0,lime_actual_120,Not controlable
+113,Florida,JHU_ConfirmedCases_dailyNewCases_1d_Lag > 6230.75,-0.3396538150202377,0.3396538150202377,-8.882339641289803,JHU_ConfirmedCases_dailyNewCases,1,>6230.75,0,lime_actual_120,Not controlable
+114,Florida,1.00 < OxCGRT_Policy_C3_CancelPublicEvents_14d_Lag <= 2.00,-0.31997180751176,0.31997180751176,-8.367632407684026,OxCGRT_Policy_C3_CancelPublicEvents,14,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+120,Florida,1.00 < OxCGRT_Policy_C7_RestrictionsOnInternalMovement_28d_Lag <= 2.00,-0.16725219254803295,0.16725219254803295,-4.373838049996617,OxCGRT_Policy_C7_RestrictionsOnInternalMovement,28,1.00< & <=2.00,1,lime_actual_120,Policymaker controlable
+121,Florida,2.00 < OxCGRT_Policy_C1_SchoolClosing_35d_Lag <= 3.00,-0.13537359789415904,0.13537359789415904,-3.5401759726669626,OxCGRT_Policy_C1_SchoolClosing,35,2.00< & <=3.00,1,lime_actual_120,Policymaker controlable
+122,Florida,AverageSurfaceAirPressure_28d_Lag > 30.00,-0.12988494122476196,0.12988494122476196,-3.3966412600976055,AverageSurfaceAirPressure,28,>30.00,0,lime_actual_120,Not controlable
+128,Florida,AverageWindGustSpeed_28d_Lag <= 0.00,0.05526799641476199,0.05526799641476199,1.4453219535315778,AverageWindGustSpeed,28,<=0.00,0,lime_actual_120,Not controlable
+131,Florida,72.00 < AverageDewPoint_35d_Lag <= 73.00,0.03990625236240583,0.03990625236240583,1.0435946002043057,AverageDewPoint,35,72.00< & <=73.00,0,lime_actual_120,Not controlable
+132,Florida,AverageSurfaceAirPressure_21d_Lag > 30.00,-0.03670938912077221,0.03670938912077221,-0.9599929333210626,AverageSurfaceAirPressure,21,>30.00,0,lime_actual_120,Not controlable
+133,Florida,AverageRelativeHumidity_28d_Lag <= 76.00,-0.03635837217272468,0.03635837217272468,-0.9508134346240692,AverageRelativeHumidity,28,<=76.00,0,lime_actual_120,Not controlable
+134,Florida,AverageDailyTemperature_14d_Lag > 81.00,0.034255839691241026,0.034255839691241026,0.8958297813232254,AverageDailyTemperature,14,>81.00,0,lime_actual_120,Not controlable
+135,Florida,3.00 < AverageWindSpeed_28d_Lag <= 4.00,0.032913261017182616,0.032913261017182616,0.860719798008512,AverageWindSpeed,28,3.00< & <=4.00,0,lime_actual_120,Not controlable
+136,Florida,76.00 < AverageRelativeHumidity_21d_Lag <= 80.00,-0.030980997177931808,0.030980997177931808,-0.8101888664016179,AverageRelativeHumidity,21,76.00< & <=80.00,0,lime_actual_120,Not controlable
+137,Florida,AverageWindGustSpeed_14d_Lag > 1.00,0.02532836254720113,0.02532836254720113,0.6623659407110143,AverageWindGustSpeed,14,>1.00,0,lime_actual_120,Not controlable
+138,Florida,3.00 < OxCGRT_Policy_C4_RestrictionsOnGatherings_14d_Lag <= 4.00,-0.01534321735833739,0.01534321735833739,-0.4012428588760758,OxCGRT_Policy_C4_RestrictionsOnGatherings,14,3.00< & <=4.00,0,lime_actual_120,Policymaker controlable
+139,Florida,2.00 < AverageWindSpeed_35d_Lag <= 3.00,0.014841930911068337,0.014841930911068337,0.38813363917850247,AverageWindSpeed,35,2.00< & <=3.00,0,lime_actual_120,Not controlable
+140,Florida,AverageWindGustSpeed_21d_Lag > 1.00,0.013850977910128482,0.013850977910128482,0.3622190734246077,AverageWindGustSpeed,21,>1.00,0,lime_actual_120,Not controlable
+141,Florida,AverageWindGustSpeed_35d_Lag <= 0.00,-0.012846409125426369,0.012846409125426369,-0.3359484391959586,AverageWindGustSpeed,35,<=0.00,0,lime_actual_120,Not controlable
+142,Florida,75.00 < AverageRelativeHumidity_35d_Lag <= 79.00,-0.009215375853161642,0.009215375853161642,-0.2409927244451688,AverageRelativeHumidity,35,75.00< & <=79.00,0,lime_actual_120,Not controlable
+143,Florida,AverageDewPoint_14d_Lag > 73.00,-0.006968202915330075,0.006968202915330075,-0.18222655611773314,AverageDewPoint,14,>73.00,0,lime_actual_120,Not controlable
+144,Florida,AverageWindSpeed_21d_Lag > 4.00,-0.004070662300716658,0.004070662300716658,-0.10645252171775303,AverageWindSpeed,21,>4.00,0,lime_actual_120,Not controlable
+145,Florida,29.00 < AverageSurfaceAirPressure_14d_Lag <= 30.00,0.0038891191054267306,0.0038891191054267306,0.10170495743665094,AverageSurfaceAirPressure,14,29.00< & <=30.00,0,lime_actual_120,Not controlable
+146,Florida,29.00 < AverageSurfaceAirPressure_35d_Lag <= 30.00,-0.0017700301424355934,0.0017700301424355934,-0.046288333017830925,AverageSurfaceAirPressure,35,29.00< & <=30.00,0,lime_actual_120,Not controlable
+147,Florida,1.00 < OxCGRT_Policy_C1_SchoolClosing_14d_Lag <= 3.00,-0.0008711686961933474,0.0008711686961933474,-0.022782067806268763,OxCGRT_Policy_C1_SchoolClosing,14,1.00< & <=3.00,0,lime_actual_120,Policymaker controlable
+148,Florida,AverageRelativeHumidity_14d_Lag <= 77.00,0.0006403700440319644,0.0006403700440319644,0.016746416426562747,AverageRelativeHumidity,14,<=77.00,0,lime_actual_120,Not controlable
+171,Florida,OxCGRT_Policy_H3_ContactTracing_35d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,35,<=1.00,0,lime_actual_120,Policymaker controlable
+166,Florida,OxCGRT_Policy_C6_StayAtHomeRequirements_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,28,<=2.00,0,lime_actual_120,Policymaker controlable
+167,Florida,OxCGRT_Policy_C6_StayAtHomeRequirements_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,35,<=2.00,0,lime_actual_120,Policymaker controlable
+168,Florida,OxCGRT_Policy_C8_InternationalTravelControls_14d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,14,<=3.00,0,lime_actual_120,Policymaker controlable
+169,Florida,OxCGRT_Policy_C8_InternationalTravelControls_21d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,21,<=3.00,0,lime_actual_120,Policymaker controlable
+170,Florida,OxCGRT_Policy_C8_InternationalTravelControls_28d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,28,<=3.00,0,lime_actual_120,Policymaker controlable
+173,Florida,OxCGRT_Policy_H3_ContactTracing_21d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,21,<=1.00,0,lime_actual_120,Policymaker controlable
+172,Florida,OxCGRT_Policy_H3_ContactTracing_28d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,28,<=1.00,0,lime_actual_120,Policymaker controlable
+164,Florida,OxCGRT_Policy_C6_StayAtHomeRequirements_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,14,<=2.00,0,lime_actual_120,Policymaker controlable
+174,Florida,OxCGRT_Policy_H3_ContactTracing_14d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_H3_ContactTracing,14,<=1.00,0,lime_actual_120,Policymaker controlable
+175,Florida,OxCGRT_Policy_C8_InternationalTravelControls_35d_Lag <= 3.00,0.0,0.0,0.0,OxCGRT_Policy_C8_InternationalTravelControls,35,<=3.00,0,lime_actual_120,Policymaker controlable
+176,Florida,OxCGRT_Policy_H1_PublicInformationCampaigns_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,14,<=2.00,0,lime_actual_120,Policymaker controlable
+177,Florida,OxCGRT_Policy_H1_PublicInformationCampaigns_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,21,<=2.00,0,lime_actual_120,Policymaker controlable
+178,Florida,OxCGRT_Policy_H2_TestingPolicy_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H2_TestingPolicy,14,<=2.00,0,lime_actual_120,Policymaker controlable
+165,Florida,OxCGRT_Policy_C6_StayAtHomeRequirements_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C6_StayAtHomeRequirements,21,<=2.00,0,lime_actual_120,Policymaker controlable
+162,Florida,OxCGRT_Policy_C5_ClosePublicTransport_28d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,28,<=1.00,0,lime_actual_120,Policymaker controlable
+163,Florida,OxCGRT_Policy_C5_ClosePublicTransport_35d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,35,<=1.00,0,lime_actual_120,Policymaker controlable
+161,Florida,OxCGRT_Policy_C5_ClosePublicTransport_21d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,21,<=1.00,0,lime_actual_120,Policymaker controlable
+160,Florida,OxCGRT_Policy_C4_RestrictionsOnGatherings_35d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,35,<=4.00,0,lime_actual_120,Policymaker controlable
+159,Florida,OxCGRT_Policy_C4_RestrictionsOnGatherings_28d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,28,<=4.00,0,lime_actual_120,Policymaker controlable
+158,Florida,OxCGRT_Policy_C4_RestrictionsOnGatherings_21d_Lag <= 4.00,0.0,0.0,0.0,OxCGRT_Policy_C4_RestrictionsOnGatherings,21,<=4.00,0,lime_actual_120,Policymaker controlable
+157,Florida,OxCGRT_Policy_C3_CancelPublicEvents_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,35,<=2.00,0,lime_actual_120,Policymaker controlable
+156,Florida,OxCGRT_Policy_C3_CancelPublicEvents_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,28,<=2.00,0,lime_actual_120,Policymaker controlable
+155,Florida,OxCGRT_Policy_C3_CancelPublicEvents_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C3_CancelPublicEvents,21,<=2.00,0,lime_actual_120,Policymaker controlable
+154,Florida,OxCGRT_Policy_C2_WorkplaceClosing_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C2_WorkplaceClosing,35,<=2.00,0,lime_actual_120,Policymaker controlable
+153,Florida,OxCGRT_Policy_C2_WorkplaceClosing_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C2_WorkplaceClosing,28,<=2.00,0,lime_actual_120,Policymaker controlable
+152,Florida,OxCGRT_Policy_C2_WorkplaceClosing_21d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C2_WorkplaceClosing,21,<=2.00,0,lime_actual_120,Policymaker controlable
+151,Florida,OxCGRT_Policy_C2_WorkplaceClosing_14d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_C2_WorkplaceClosing,14,<=2.00,0,lime_actual_120,Policymaker controlable
+150,Florida,OxCGRT_Policy_H1_PublicInformationCampaigns_35d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,35,<=2.00,0,lime_actual_120,Policymaker controlable
+149,Florida,OxCGRT_Policy_H1_PublicInformationCampaigns_28d_Lag <= 2.00,0.0,0.0,0.0,OxCGRT_Policy_H1_PublicInformationCampaigns,28,<=2.00,0,lime_actual_120,Policymaker controlable
+179,Florida,OxCGRT_Policy_C5_ClosePublicTransport_14d_Lag <= 1.00,0.0,0.0,0.0,OxCGRT_Policy_C5_ClosePublicTransport,14,<=1.00,0,lime_actual_120,Policymaker controlable
